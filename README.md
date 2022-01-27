@@ -17,7 +17,7 @@
 - Fork the repo and change template link to forked repo link (else you will not able to deploy)
 - Change the app region to Europe (it will help to make the bot stable)
   
-<p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/tumhumeyaadnhi/47MusicPlayerBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250" alt="Deploy"></a></p>
+<p align="left"><a href="https://dashboard.heroku.com/new?template=https://github.com/heartmusicop/47MusicPlayerBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250" alt="Deploy"></a></p>
 
 ## 🏃‍♂ Pyrogram Session
 
@@ -35,17 +35,17 @@
 
 | Command  | Description                                          |
 | -------  | ---------------------------------------------------- |
-| /play    | play the given query or YouTube link as audio        |
-| /vplay   | play the given query or YouTube link as video        |
-| /saudio  | stream m3u8 or live stream audio link                |
-| /svideo  | stream m3u8 or live stream video link                |
-| /skip    | play next song in queue                              |
-| /pause   | pause the audio stream                               |
-| /resume  | resume the audio stream                              |
-| /mute    | mute the userbot                                     |
-| /unmute  | unmute the userbot                                   |
-| /stop    | stop streaming and remove the userbot from the call  |
-| /restart | restart the bot                                      |
+| !play    | play the given query or YouTube link as audio        |
+| !vplay   | play the given query or YouTube link as video        |
+| !audio  | stream m3u8 or live stream audio link                |
+| !svideo  | stream m3u8 or live stream video link                |
+| !skip    | play next song in queue                              |
+| !pause   | pause the audio stream                               |
+| !resume  | resume the audio stream                              |
+| !mute    | mute the userbot                                     |
+| !unmute  | unmute the userbot                                   |
+| !stop    | stop streaming and remove the userbot from the call  |
+| !restart | restart the bot                                      |
 
 ## ❤️ Support
 
