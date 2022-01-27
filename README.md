@@ -30,7 +30,7 @@
 3. `BOT_TOKEN` : Your Telegram bot token, get it from @BotFather
 4. `SESSION_NAME` : Pyrogram session string of assistant account
 5. `OWNER_ID` : Your Telegram ID
-
+6. `SUDO_USERS` : Your Sudo ID
 ## ℹ️ Commands
 
 | Command  | Description                                          |
